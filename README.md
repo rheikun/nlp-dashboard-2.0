@@ -1,4 +1,4 @@
-# youtube-nlp-dashboard-2.0
+# nlp-dashboard-2.0
 
 ## Setup Environment - Anaconda
 ```
