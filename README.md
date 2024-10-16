@@ -1,4 +1,4 @@
-# youtube-nlp-dashboard
+# youtube-nlp-dashboard-2.0
 
 ## Setup Environment - Anaconda
 ```
@@ -16,7 +16,7 @@ pipenv shell
 pip install -r requirements.txt
 ```
 
-## Run steamlit app
+## Run streamlit app
 ```
 streamlit run dashboard.py
 ```
