@@ -23,7 +23,7 @@ Please note that the sentiment analysis results may not fully capture the nuance
 
 ## Preview Interface
 
-If you're curious about how the app works, you can check the link in [url.txt](rheikun/nlp-dashboard-2.0/blob/main/url.txt) and access it from your browser.
+If you're curious about how the app works, you can check the link in [url.txt](url.txt) and access it from your browser.
 
 ## Setup Environment - Anaconda
 ```
